@@ -19,7 +19,4 @@ To run the code, ensure that the R environment is set up on your local machine. 
 
 The analysis provides insights into the relationship between various automobile attributes and the miles per gallon (mpg) of the vehicles. It includes visualizations such as scatter plots, histograms, and residual plots, as well as the summary statistics of the dataset.
 
-## Requirements
-
-Ensure that you have R and the required R libraries installed before running the code. The R libraries used in this project are specified at the beginning of the "analysis_script.R" file.
 
